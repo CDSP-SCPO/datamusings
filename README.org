@@ -1,7 +1,5 @@
 #+TITLE: Data musings with pandas and bokeh
 
 This repository contains a collection of independent notebooks, whose
-common purpose are to illustrate topics of interest in data
+common loose purpose is to illustrate topics of interest in data
 manipulation and visualization with [[https://pandas.pydata.org/][pandas]] and [[https://bokeh.pydata.org/en/0.12.13/][bokeh]].
-
-The software libraries of choice are pandas and bokeh. 
